@@ -70,7 +70,6 @@ During development, I encountered several issues:
 
 Possible improvements:
 
-- Add automatic posting to Instagram/LinkedIn
 - Add article quality filtering
 - Add duplicate article detection
 - Add database storage for generated content
