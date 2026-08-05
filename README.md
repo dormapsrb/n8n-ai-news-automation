@@ -8,6 +8,8 @@ The workflow collects article data, extracts metadata and images, uses an AI mod
 
 ## Workflow
 
+<img width="934" height="353" alt="Flown8n" src="https://github.com/user-attachments/assets/216b76bb-783e-4d15-bce8-8753e73123e4" />
+
 The automation process:
 
 1. Fetch news article data from RSS/API source
